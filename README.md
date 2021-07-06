@@ -15,5 +15,7 @@ Our system composes of 3 tasks:
 
 ## References
 <a id="1">[1]</a> Wang, C.-Y., Bochkovskiy, A., and Liao, H.-Y. M., “Scaled-YOLOv4: Scaling Cross Stage Partial Network”, <i>arXiv e-prints</i>, 2020.
+
 <a id="2">[2]</a> N. Wojke, A. Bewley and D. Paulus, "Simple online and realtime tracking with a deep association metric," 2017 IEEE International Conference on Image Processing (ICIP), 2017, pp. 3645-3649, doi: 10.1109/ICIP.2017.8296962.
+
 <a id="3">[3]</a> Ronneberger, O., Fischer, P., and Brox, T., “U-Net: Convolutional Networks for Biomedical Image Segmentation”, <i>arXiv e-prints</i>, 2015.
