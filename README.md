@@ -1,4 +1,4 @@
-##**Deep Learning based Surveillance System for Intelligent Transportation**
+## **Deep Learning based Surveillance System for Intelligent Transportation**
 
 In this repository, a deep learning based approach for surveillance camera is presented.
 Our system composes of 3 tasks:
@@ -6,7 +6,7 @@ Our system composes of 3 tasks:
 * Object Tracking: Assign ID to each detected object. The object tracker is applied using Deep Sort [[2]](#2).
 * Lane detection: Classifying each pixel if it belongs to a lane line or not. This is done using a U-net based segmentation neural network. [[3]](#3).
 
-##How to run:
+## How to run:
 1. Train YOLOv4-tiny using Darknet repository
 2. Run save_model.py
 3. Train U-net using \ref{} this repo
